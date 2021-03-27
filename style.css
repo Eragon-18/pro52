@@ -1,0 +1,89 @@
+* {
+    font-family: cursive, fantasy, serif;
+    margin: 10px;
+}
+
+.header{
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding:25px;
+    color: orange;
+}
+
+.camel{
+    background-color:teal;
+    display: flex;
+    justify-content: space-evenly;
+    margin:10px;
+    padding:25px;
+}
+
+.camel h2{
+    color: orange;
+}
+
+.chameleon{
+    background-color: darkmagenta;
+    display: flex;
+    justify-content: space-evenly;
+    margin:10px;
+    padding:25px
+}
+
+.chameleon h2{
+    color: orange;
+}
+
+.pigeon{
+    background-color: deeppink;
+    display: flex;
+    justify-content: space-evenly;
+    margin:10px;
+    padding:25px
+}
+
+.pigeon h2{
+    color: orange;
+}
+
+.teddy{
+    background-color: darkred;
+    display: flex;
+    justify-content: space-evenly;
+    margin:10px;
+    padding:25px
+}
+
+.teddy h2{
+    color: orange;
+}
+
+a:link{
+    color:darkviolet
+}
+
+a:visited{
+    color: darkblue;
+}
+
+.camel:hover img{
+    opacity: 0.30;
+}
+
+.chameleon:hover img{
+    opacity: 0.30;
+}
+
+.teddy:hover img{
+    opacity: 0.30;
+}
+
+.pigeon:hover img{
+    opacity: 0.30;
+}
+
+a{
+    text-decoration: none;
+}
